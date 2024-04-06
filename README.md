@@ -1,4 +1,28 @@
-![image](https://github.com/JoaoEnrique13/FilaPessoaJava/assets/99426704/8ad0c5eb-1334-4580-b677-710c94d895ae)
+<!-- ![image](https://github.com/JoaoEnrique13/FilaPessoaJava/assets/99426704/8ad0c5eb-1334-4580-b677-710c94d895ae)
+
+-->
+
+# Saida
+```java
+Fila vazia: true
+
+Nome: Joao - Idade: 18
+Nome: Enrique - Idade: 17
+Nome: Amanda - Idade: 15
+Nome: Adelson - Idade: 52
+
+Removido: Nome: Joao - Idade: 18
+
+Nome: Enrique - Idade: 17
+Nome: Amanda - Idade: 15
+Nome: Adelson - Idade: 52
+Nome: Enrique - Idade: 17
+Nome: Amanda - Idade: 15
+Nome: Adelson - Idade: 52
+Nome: Elaine Idade: 51
+
+Tamanho da fila: 4
+```
 
 # Classe Fila
 ```java
